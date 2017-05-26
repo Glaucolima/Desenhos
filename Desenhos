@@ -6,5 +6,26 @@
 
 #EXTINF:-1 tvg-logo="--logo--" group-title="", [COLOR blue][I][B] -- Desenhos Infantil -- [/B][/I] [/COLOR]
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/11/dabf6f318807a18f184b7cc51d3d4216.jpg " , 100 metros ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:218DB403FB4252303F419CB0031073410C32F569&amp
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/D88t8aw.png " , O Rei Leão ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:f57b392dd7e52582ceda425b8fa62bbc3e3b3fe9&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/D88t8aw.png " , O Rei Leão 2 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:b3ce47f3c94cd7b2b9283c621f7e2112e5c60321&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i3.wp.com/comandotorrents.com/wp-content/uploads/2016/06/O-Filme-Looney-Looney-Looney-do-Pernalonga-Dublado-Torrent-Download-Bluray-720p-1981.jpg " , O Filme Looney, Looney, Looney do Pernalonga ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:1BD7BA933020078E6E05A558129CB20F7B38C351&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:Codigo&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:Codigo&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:Codigo&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:Codigo&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:Codigo&amp
