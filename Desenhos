@@ -1,0 +1,10 @@
+#EXtm3u
+
+#EXTINF:-1 tvg-logo="--logo--" group-title="", --Mais Tv HD--
+
+#EXTINF:-1 tvg-logo="--logo--" group-title="", --07/04/2017--
+
+#EXTINF:-1 tvg-logo="--logo--" group-title="", [COLOR blue][I][B] -- Desenhos Infantil -- [/B][/I] [/COLOR]
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/11/dabf6f318807a18f184b7cc51d3d4216.jpg " , 100 metros ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:218DB403FB4252303F419CB0031073410C32F569&amp
