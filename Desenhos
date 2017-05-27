@@ -6,26 +6,74 @@
 
 #EXTINF:-1 tvg-logo="--logo--" group-title="", [COLOR blue][I][B] -- Desenhos Infantil -- [/B][/I] [/COLOR]
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/mUULx8h.jpg " , 9 - A Salvação ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:0239D81A403EAA5C6CE4B5D872F1DFB3E68D319D&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://1.bp.blogspot.com/-MqQQZ6y63tc/V-_XoeqaJMI/AAAAAAAAAJQ/Kll8bYO4gSsk69rbjWz50oNOwX1r0HX9ACK4B/s400/BLUR2.png " , A Era do Gelo: O Big Bang ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:B30C2864504141F5B86FBB651B36B263678F0F2E&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/jOodHAW.jpg " , Angry Birds - O Filme ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:1B1768AD09031771955AEF41442CBED0BA637A89&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://2.bp.blogspot.com/-M7goCkM1stg/WAknPU7pUyI/AAAAAAAAAPE/Cfa1bQJvD0892IJ189ynoH-sBcl6Sl2wACK4B/s400/BLUR2.png " , A Abelha Maya O Filme ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:A5CDD063A0A3489A3EA07836BF6AFF65E3BCD2A4&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/wdg0gWe.jpg " , A Lenda do Rei Macaco - A Volta do Herói ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:161B50F088041C4BEC0FEF00B0E7B604FBE1822F&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://1.bp.blogspot.com/-tw-o8Dm1rpY/V-ecLmoxdeI/AAAAAAAAAHA/dsHt6YzB7cwZ_RcH3u7H-hzOqTmMFJCggCK4B/s400/BLUR2.png " , Coleção Shrek ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:F7D9EEB8B4596A4562EF264C101E1916C8803403&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/teEWwWP.jpg " , Cegonhas - A História que Não te Contaram ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:7EFDB39DE3ECDF557913BE6B5A7CDA3BC0C8DEB1&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/ab6D2vU.jpg " , Divertida Mente ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:AFD873000770C4A7054C999D83F49A3D2303FF9C&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/FiIphnw.jpg " , Fievel - Um Conto Americano ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:6EUUXW6JFIJCN4CBG3YIFWA4A4EQ4JTK&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/FueoobV.jpg " , Hércules - Disney ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:297BEFD8D33AA0271B2904DC3DFAD4DCDEB10D32&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/MD4E7HG.jpg " , Jake e os Piratas da Terra do Nunca - A Batalha do Livro ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:01B8D03A449B9836B585911EBBCFF92A26702624&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://1.bp.blogspot.com/-z_lv7kVvq4o/WSDpsZEtsXI/AAAAAAAADBg/5G1kJhcC7essc4Y8D_9QD4-F-VFreAkiACLcB/s1600/masha-e-o-urso-torrent-2017.jpg " , Masha e o Urso - O Filme ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:95D7A48DF148300F90DED213A8352C5EE4BC4232&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/D88t8aw.png " , O Rei Leão ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:f57b392dd7e52582ceda425b8fa62bbc3e3b3fe9&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/D88t8aw.png " , O Rei Leão 2 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:b3ce47f3c94cd7b2b9283c621f7e2112e5c60321&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://4.bp.blogspot.com/-rwZgn9y8hX4/WCDxQnPXa3I/AAAAAAAAAT0/yDcSDCWmLdkgesULn7lpkWm03ChKRKjRwCK4B/s400/BLUR2.png " , Operação Big Hero ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:4CA5F5DC0094BEA84CC3AAFF32A0DF5E037C35E8&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://4.bp.blogspot.com/-tHrUI5gsNwo/WCHsxhSOYzI/AAAAAAAAAUE/2MTF-tDHIW40xuOt0TJco2eLoOFagz8wACK4B/s400/BLUR2.png " , Pets A Vida Secreta dos Bichos ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:168F2C06914E2FBED2D000EFBF5E22DB7E2F69E5&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://2.bp.blogspot.com/-p4VE3aFr0Ck/WBBmbLZbcnI/AAAAAAAAAQ8/mDKwqd_923M14_oMRjxKJ-o5LH7FkCLbwCK4B/s400/BLUR2.png " , Procurando Dory ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:6A09596C49A66E7E48376275166144CDE1827E23&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i3.wp.com/comandotorrents.com/wp-content/uploads/2016/06/O-Filme-Looney-Looney-Looney-do-Pernalonga-Dublado-Torrent-Download-Bluray-720p-1981.jpg " , O Filme Looney, Looney, Looney do Pernalonga ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:1BD7BA933020078E6E05A558129CB20F7B38C351&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:Codigo&amp
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://1.bp.blogspot.com/-Z1PO2-YG3RA/WCJDI6f193I/AAAAAAAAAUU/10_f1r7VoqgaSDYim4wtldtNo3qKn7AIACK4B/s400/BLUR2.png " , Rango ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:D74D57B2E071F28E46712E301B592A3A3D9C1FEA&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:Codigo&amp
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/9kM5QfG.jpg " , Space Dogs - A Aventura na Lua ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:BB19F881D2DFB9C05F661F0366FC819688B47324&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:Codigo&amp
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/7e7LlK3.jpg " , Spirit - O corcel indomável ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:8C51F40CC0FA665FDDB7063A2516BBB2A9045A7F&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:Codigo&amp
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://4.bp.blogspot.com/-ESFFfoNpfbs/WH6vlfSa6MI/AAAAAAAACAs/iE0ODTlEbzQ3bg-6m6WlJaX_MPU9ny7RQCK4B/s1600/BLUR2.png " , Tá Dando Onda ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:93C9EB84C3C349A8DBFDE669ACF95DF3C0C22D1D&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://3.bp.blogspot.com/-AIr0iP7Gp-0/WI9MZU4IY3I/AAAAAAAACBQ/1Y89Q0INghYoeAtNuY_MQV8wlc_3wyUoACK4B/s400/BLUR2.png " , Ta Dando Onda 2 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:B343CDA987E2B686EEC7F3E0861D889A42110B7B&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:Codigo&amp
