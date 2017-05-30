@@ -21,11 +21,17 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:A5CDD063A0A3489A3EA07836BF6A
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/wdg0gWe.jpg " , A Lenda do Rei Macaco - A Volta do Herói ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:161B50F088041C4BEC0FEF00B0E7B604FBE1822F&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://i0.wp.com/i.imgur.com/9R6alG1.jpg?resize=240%2C305 " , Bee Movie: A História de uma Abelha  ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:505408791A895BA849730759110F0363FD4F4481&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://1.bp.blogspot.com/-tw-o8Dm1rpY/V-ecLmoxdeI/AAAAAAAAAHA/dsHt6YzB7cwZ_RcH3u7H-hzOqTmMFJCggCK4B/s400/BLUR2.png " , Coleção Shrek ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:F7D9EEB8B4596A4562EF264C101E1916C8803403&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/teEWwWP.jpg " , Cegonhas - A História que Não te Contaram ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:7EFDB39DE3ECDF557913BE6B5A7CDA3BC0C8DEB1&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://i1.wp.com/i.imgur.com/KVCWFIU.jpg?resize=240%2C305 " , Detona Ralph ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:D56411F0DE6F5FDDB4EC72FAB5561BB73B64B704&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/ab6D2vU.jpg " , Divertida Mente ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:AFD873000770C4A7054C999D83F49A3D2303FF9C&amp
@@ -38,6 +44,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:297BEFD8D33AA0271B2904DC3DFA
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/MD4E7HG.jpg " , Jake e os Piratas da Terra do Nunca - A Batalha do Livro ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:01B8D03A449B9836B585911EBBCFF92A26702624&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://i2.wp.com/i.imgur.com/QJ8my2R.jpg?resize=240%2C305 " , LEGO Batman: O Filme ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:9B33D5CA0D9833238C34700EB195116763711EFA&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://1.bp.blogspot.com/-z_lv7kVvq4o/WSDpsZEtsXI/AAAAAAAADBg/5G1kJhcC7essc4Y8D_9QD4-F-VFreAkiACLcB/s1600/masha-e-o-urso-torrent-2017.jpg " , Masha e o Urso - O Filme ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:95D7A48DF148300F90DED213A8352C5EE4BC4232&amp
@@ -75,5 +84,11 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:93C9EB84C3C349A8DBFDE669ACF9
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://3.bp.blogspot.com/-AIr0iP7Gp-0/WI9MZU4IY3I/AAAAAAAACBQ/1Y89Q0INghYoeAtNuY_MQV8wlc_3wyUoACK4B/s400/BLUR2.png " , Ta Dando Onda 2 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:B343CDA987E2B686EEC7F3E0861D889A42110B7B&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Em Breve ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:Codigo&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Em Breve ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:Codigo&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Em Breve ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:Codigo&amp
